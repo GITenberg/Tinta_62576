@@ -1,0 +1,31 @@
+_repo: Tinta_62576
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kosztolányi, Dezső
+    aliases:
+    - Kosztolanyi, Desire
+    - Kostolani, Dezhe
+    - Kosztolányi, Désiré
+    - Kosztolanyi, Dezso
+    - Kosztolányi, Dezso
+    birthdate: 1885
+    deathdate: 1936
+    gutenberg_agent_id: '40807'
+    url: http://www.gutenberg.org/2009/agents/40807
+    wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+description: ''
+gutenberg_issued: '2020-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62576'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian literature'
+- !lcc 'PH'
+- GITenberg
+title: Tinta
+url: http://www.gutenberg.org/ebooks/62576
