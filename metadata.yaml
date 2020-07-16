@@ -1,5 +1,8 @@
 _repo: Tinta_62576
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kosztolányi, Dezső
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40807
     wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62576#Tinta
 gutenberg_issued: '2020-07-07'
 gutenberg_type: Text
 identifiers:
